@@ -1,3 +1,3 @@
 # react-recipe-search
-##Live demo
+## Live demo
 https://react-recipe-search-app.netlify.com/
